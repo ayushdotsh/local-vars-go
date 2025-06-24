@@ -35,8 +35,8 @@ Projector is designed to solve the problem of managing project-specific configur
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/ayushdotsh/local-vars.git
-cd local-vars
+git clone https://github.com/ayushdotsh/local-vars-go.git
+cd local-vars-go
 ```
 
 2. Install dependencies:
